@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <city>Kyiv</city>
+    <speciality>Computer systems and networks</speciality>
+    <student>
+        <name>Natalie</name>
+        <surname>Soloviova</surname>
+        <id>12123</id>
+        <mark>9.8</mark>
+        <subjects>50</subjects>
+        <married>false</married>
+        <diploma>
+            <year>2010</year>
+            <name>Mathematical and computational devices</name>
+            <commission>Kravtsov K.</commission>
+            <commission>Rychko L.</commission>
+            <commission>Sazonov R.</commission>
+        </diploma>
+    </student>
+</root>

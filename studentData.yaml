@@ -1,0 +1,16 @@
+city: Kyiv
+speciality: "Computer systems and networks"
+student:
+  name: Natalie
+  surname: Soloviova
+  id: 12123
+  mark: 9.8
+  subjects: 50
+  married: false
+  diploma:
+    year: 2010
+    name: "Mathematical and computational devices"
+    commission:
+      - Kravtsov K.
+      - Rychko L.
+      - Sazonov R.
